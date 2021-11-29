@@ -16,7 +16,7 @@
     "js-md5": "^0.7.3",
     "less": "^3.0.2",
     "less-loader": "^4.1.0",
-    "mavon-editor": "^2.6.17",
+    "mavon-editor": "^2.8.2",
     "vue": "^2.6.10",
     "vue-cookie": "^1.1.4",
     "vue-cropper": "^0.4.4",
